@@ -52,4 +52,4 @@ Feel free to explore the repo and reach out if you’d like to connect!
 
 ---
 
-🔗 [View my Certificate on Coursera]([https://coursera.org/share/your-certificate-id](https://coursera.org/share/2135e743f7e7d226ca1513fd1e0e0093))
+🔗 [View my Certificate on Coursera](https://coursera.org/share/2135e743f7e7d226ca1513fd1e0e0093)
